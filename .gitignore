@@ -1,0 +1,15 @@
+# .gitignore
+
+# Local Terraform state
+*.tfstate
+*.tfstate.backup
+
+# Local variable files
+*.tfvars
+*.auto.tfvars
+
+# Crash log
+crash.log
+
+# Terraform directories
+.terraform/
